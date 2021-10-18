@@ -70,8 +70,6 @@
             } else if(umur < 18 || umur > 45) {
                 alert('Umur anda tidak layak');
                 return false;
-            }else{
-                return false;
             }
         }
     </script>
